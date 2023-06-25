@@ -6,3 +6,5 @@ NO MERCY
 
   connect
   multi
+
+done all
